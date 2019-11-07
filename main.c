@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-// call by value
+// call by reference
 
 void swap(int *x, int *y) {
 	int temp;
